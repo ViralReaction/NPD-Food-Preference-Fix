@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Fix NPD Preference Logic</name>
+	<author>Viral Reaction</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>VR.NPDL</packageId>
+	<modDependencies>
+		 <li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<incompatibleWith>
+		<li>dankpyon.medieval.overhaul</li>
+	</incompatibleWith>
+	<description>Patches best food source logic for Nutrient Paste Dispensers to take the food dispensed into account for preference.</description>
+</ModMetaData>
